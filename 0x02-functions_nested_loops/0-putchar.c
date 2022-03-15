@@ -16,5 +16,5 @@ int main(void)
 		_putchar(chaine[i]);
 		i++;
 	}
-	return(0);
+	return (0);
 }
